@@ -50,7 +50,6 @@ from another angle:
 
 5.test gif:
 <p align="center">
-  <img width="400" height="300" src="/WalkingDollar/demo.gif">
+  <img width="600" height="400" src="/WalkingDollar/demo.gif">
 </p>
 
-![Alt Text](/WalkingDollar/demo.gif)
