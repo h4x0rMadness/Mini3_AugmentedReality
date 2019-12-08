@@ -49,5 +49,8 @@ from another angle:
 </p>
 
 5.test gif:
+<p align="center">
+  <img width="400" height="300" src="/WalkingDollar/demo.gif">
+</p>
 
 ![Alt Text](/WalkingDollar/demo.gif)
