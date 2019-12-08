@@ -48,3 +48,6 @@ from another angle:
   <img width="400" height="300" src="/WalkingDollar/walk2.jpeg">
 </p>
 
+5.test video:
+
+<video src="/WalkingDollar/testvideo.mp4" width="320" height="200" controls preload></video>
