@@ -59,14 +59,13 @@ from another angle:
 1.Open the application:
 
 <p align="center">
-  <img width="100" height="100" src="/TouchCube/app.jpeg">
+  <img width="100" height="100" src="/TouchCube/app.jpg">
 </p>
 
 2.You will see above the dollar bill a white plane appears, this plane is vertical to the dollar bill, to avoid human mistake of making this bill vertical to the table, we use a wiki picture.
 
 <p align="center">
   <img width="100" height="100" src="/TouchCube/detected.jpeg">
- 
 </p>
 
 and it will also changes with different angle of your device:
@@ -75,7 +74,6 @@ and it will also changes with different angle of your device:
 
 <p align="center">
   <img width="100" height="100" src="/TouchCube/angle.jpeg">
- 
 </p>
 
 
@@ -84,7 +82,6 @@ and it will also changes with different angle of your device:
 
 <p align="center">
   <img width="100" height="100" src="/TouchCube/placeCube.jpeg">
- 
 </p>
 
 treat this as a stacking cube game, I don't know about you but it is kind of hard for me:
@@ -92,7 +89,6 @@ treat this as a stacking cube game, I don't know about you but it is kind of har
 
 <p align="center">
   <img width="100" height="100" src="/TouchCube/stackCube.jpeg">
- 
 </p>
 
 4. notice that the plane will be manually cleared with a heavy shake.
