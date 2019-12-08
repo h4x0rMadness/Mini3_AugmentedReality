@@ -50,4 +50,4 @@ from another angle:
 
 5.test video:
 
-<video src="/WalkingDollar/testvideo.mp4" width="320" height="200" controls preload></video>
+<video src="/WalkingDollar/testvideo.mp4" width="400" height="300" controls preload></video>
