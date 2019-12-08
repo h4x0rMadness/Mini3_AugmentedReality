@@ -6,5 +6,7 @@ This Repo includes two small application developed with Unity and applied to iOS
 
 Open the application, place a regular one dollar bill in front of the iPhone camera visible range like the following:
 
-<img align="left" width="100" height="100" src="/WalkingDollar/app2.jpeg">
 
+<p align="center">
+  <img width="100" height="100" src="/WalkingDollar/app2.jpeg">
+</p>
