@@ -17,3 +17,9 @@ This Repo includes two small application developed with Unity and applied to iOS
 <p align="center">
   <img width="600" height="400" src="/WalkingDollar/dollar.jpeg">
 </p>
+
+3.In the app view, you will see:
+
+<p align="center">
+  <img width="600" height="400" src="/WalkingDollar/appView.jpeg">
+</p>
