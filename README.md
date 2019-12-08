@@ -36,3 +36,15 @@ from another angle:
 <p align="center">
   <img width="600" height="400" src="/WalkingDollar/detected_side.jpeg">
 </p>
+
+4.With the controller bottom left, it is possible to move mr.president along the long side of this dollar bill:
+
+<p align="center">
+  <img width="600" height="400" src="/WalkingDollar/walk1.jpeg">
+</p>
+
+
+<p align="center">
+  <img width="600" height="400" src="/WalkingDollar/walk2.jpeg">
+</p>
+
