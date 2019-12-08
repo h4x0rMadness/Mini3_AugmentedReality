@@ -2,7 +2,7 @@
 
 This Repo includes two small application developed with Unity and applied to iOS with Xcode
 
-## 1 WalkingDollar
+## 1. WalkingDollar
 
 1.Open the application:
 
@@ -53,3 +53,10 @@ from another angle:
   <img width="600" height="400" src="/WalkingDollar/demo.gif">
 </p>
 
+
+## 2. TouchCube
+
+
+### install and test:
+
+code and files needed in the filepath "/source", use unity to xcode to convert and compile, then make sure to use apple developer account to install on Apple device, be sure to trust the developer on Apple device.
