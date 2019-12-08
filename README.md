@@ -6,3 +6,5 @@ This Repo includes two small application developed with Unity and applied to iOS
 
 Open the application, place a regular one dollar bill in front of the iPhone camera visible range like the following:
 
+![GitHub Logo](/WalkingDollar/app.jpeg)
+Format: ![Alt Text](url)
