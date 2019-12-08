@@ -21,30 +21,30 @@ This Repo includes two small application developed with Unity and applied to iOS
 3.In the app view, you will see:
 
 <p align="center">
-  <img width="600" height="400" src="/WalkingDollar/appView.jpeg">
+  <img width="400" height="300" src="/WalkingDollar/appView.jpeg">
 </p>
 
 and with clear recognizable feature of this dollar bill, mr.president will appear:
 
 <p align="center">
-  <img width="600" height="400" src="/WalkingDollar/detected.jpeg">
+  <img width="400" height="300" src="/WalkingDollar/detected.jpeg">
 </p>
 
 
 from another angle:
 
 <p align="center">
-  <img width="600" height="400" src="/WalkingDollar/detected_side.jpeg">
+  <img width="400" height="300" src="/WalkingDollar/detected_side.jpeg">
 </p>
 
 4.With the controller bottom left, it is possible to move mr.president along the long side of this dollar bill:
 
 <p align="center">
-  <img width="600" height="400" src="/WalkingDollar/walk1.jpeg">
+  <img width="400" height="300" src="/WalkingDollar/walk1.jpeg">
 </p>
 
 
 <p align="center">
-  <img width="600" height="400" src="/WalkingDollar/walk2.jpeg">
+  <img width="400" height="300" src="/WalkingDollar/walk2.jpeg">
 </p>
 
