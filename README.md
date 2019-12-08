@@ -48,6 +48,6 @@ from another angle:
   <img width="400" height="300" src="/WalkingDollar/walk2.jpeg">
 </p>
 
-5.test video:
+5.test gif:
 
-<video src="/WalkingDollar/testvideo.mp4" width="400" height="300" controls preload></video>
+![Alt Text](/WalkingDollar/demo.gif)
