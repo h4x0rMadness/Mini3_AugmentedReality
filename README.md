@@ -93,7 +93,9 @@ treat this as a stacking cube game, I don't know about you but it is kind of har
 
 4. notice that the plane will be manually cleared with a heavy shake.
 
-
+<p align="center">
+  <img width="600" height="400" src="/TouchCube/demo.gif">
+</p>
 
 ### install and test:
 
