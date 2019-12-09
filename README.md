@@ -100,3 +100,5 @@ treat this as a stacking cube game, I don't know about you but it is kind of har
 ### Install and Test:
 
 code and files needed in the filepath "/source", use unity to xcode to convert and compile, then make sure to use apple developer account to install on Apple device, be sure to trust the developer on Apple device.
+### Dependency
+Vuforia, Unity
